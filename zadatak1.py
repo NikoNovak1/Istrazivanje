@@ -1,4 +1,3 @@
-###Nova promjena
 x=5 
 if x==1: /primjer grananja
    print("X = 1") 
