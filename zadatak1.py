@@ -1,6 +1,6 @@
 x=5 
 if x==1: 
-   print("X = 1") /primjer grananja
+   print("X = 1") 
 elif x==2: 
    print("X = 2") 
 elif x==5: 
