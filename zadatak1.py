@@ -1,3 +1,4 @@
+###Prihvacam promjenu
 x=5 
 if x==1: 
    print("X = 1") 
